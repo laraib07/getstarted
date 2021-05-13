@@ -3,7 +3,7 @@ var userName = "LaraiB";
 
 // Default Searchengine
 // Available: Google DuckDuckGo Bing Yahoo
-var searchEngine = "DuckDuckgo";
+var searchEngine = "DuckDuckGo";
 
 // Cards
 var cards = [
