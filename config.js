@@ -1,16 +1,10 @@
-<<<<<<< HEAD
 // Username displayed in greeting.
 var userName = "LaraiB";
-=======
-// Username to be displayed in greeting
-var userName = "Laraib";
->>>>>>> 7cb880e99ff7b2d9b9149cc58f7a4bcc9787ef69
 
 // Default Searchengine
 // Available: Google DuckDuckGo Bing Yahoo
-var searchEngine = "DuckDuckGo";
+var searchEngine = "DuckDuckgo";
 
-<<<<<<< HEAD
 // Cards
 var cards = [
 	{
@@ -43,41 +37,5 @@ var cards = [
 			"translate": "https://translate.google.co.in"
 		}
 	}
-=======
 
-// Add link or remove
-var links_var = [
-    [
-
-        // Work
-        ['github', 'https://github.com'],
-        ['stackoverflow', 'https://stackoverflow.com'],
-
-
-    ],
-    [
-
-        // Media
-        ['youtube', 'https://www.youtube.com'],
-        ['reddit', 'https://teddit.net/'],
-
-
-    ],
-    [
-
-        // Doc
-        ['kotlin', 'https://www.programiz.com/kotlin-programming'],
-        ['android', 'https://developer.android.com'],
-       // ['', ''],
-
-
-    ],
-    [
-
-        // Misc
-        ['translate', 'https://translate.google.co.in/'],
-
-
-    ],
->>>>>>> 7cb880e99ff7b2d9b9149cc58f7a4bcc9787ef69
 ]
