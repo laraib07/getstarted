@@ -18,7 +18,8 @@ var cards = [
 		name: "Doc",
 		bookmarks: {
 			"android": "https://developer.android.com",
-			"kotlin": "https://www.programiz.com/kotlin-programming"
+			"kotlin": "https://www.programiz.com/kotlin-programming",
+                        "DS-algo": "https://www.programiz.com/dsa"
 		}
 	},
 	{
