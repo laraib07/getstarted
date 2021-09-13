@@ -12,7 +12,7 @@ var cards = [
 		bookmarks: {
 			"github": "https://github.com",
 			"leetcode": "https://leetcode.com",
-            "hackerranm": "https://hackerrank.com/"
+            "hackerrank": "https://hackerrank.com/"
 		}
 	},
 	{
