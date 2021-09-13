@@ -11,7 +11,8 @@ var cards = [
 		name: "Work",
 		bookmarks: {
 			"github": "https://github.com",
-			"leetcode": "https://leetcode.com"
+			"leetcode": "https://leetcode.com",
+            "hackerranm": "https://hackerrank.com/"
 		}
 	},
 	{
@@ -35,7 +36,7 @@ var cards = [
 		name: "Misc",
 		bookmarks: {
 			"merriam-webster": "https://www.merriam-webster.com/",
-			"translate": "https://translate.google.co.in"
+			"translate": "https://lingva.ml/"
 		}
 	}
 
